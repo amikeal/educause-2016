@@ -102,7 +102,7 @@ Work we do: web; infrastructure; business applications; automated tools to manag
 
 ---
 
-# [fit] The Problem
+# The Problem
 
 ### Do we have a problem?
 ### IT has always been like this
@@ -114,10 +114,9 @@ Several attempts, some false starts, then he came into my office one day and sai
 
 ---
 
-# [fit] The Solution
+# The Solution
 
-
-![original 140%](images/book.png)
+![original 135%](images/book.png)
 
 ^
 "Dude—you HAVE to read this book"
@@ -199,7 +198,8 @@ One result of automation and IaC is that we this less about disaster _recovery_ 
 
 # Infrastructure as Code
 
-So our systems are not defined like this—
+So our systems are not 
+defined like this—
 
 ---
 
@@ -218,7 +218,7 @@ And no one reads it. And it doesn't stay in sync with reality—configuration dr
 
 # But rather, like this—
 
-```
+```ruby
 include_recipe 'nginx'
 include_recipe 'git'
 
@@ -341,7 +341,7 @@ On DevOps and organizational culture:
 
 ## Empathy: The Essence of DevOps </br>[http://blog.ingineering.it/post/72964480807/empathy-the-essence-of-devops](http://blog.ingineering.it/post/72964480807/empathy-the-essence-of-devops)
 ## DevOps Culture (Part 1) </br>[http://itrevolution.com/devops-culture-part-1/](http://itrevolution.com/devops-culture-part-1/)
-## Continuously Deploying Culture: Scaling Culture at Etsy </br>[http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485](http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485)
+## Continuously Deploying Culture: Scaling <br>Culture at Etsy </br>[http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485](http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485)
 
 ---
 
